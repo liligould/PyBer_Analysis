@@ -12,10 +12,10 @@ The first steps that were taken was to determine total rides, total drivers, tot
 ## Summary
 In summary, higher populations per location allow for more accessibility and affordability to ride share services. While urban areas tend to have denser populations per square mile then suburban and rural it makes sense why there are 30 times more drivers, 13 times more riders, and lower fares for riders. It also makes sense why drivers make more in urban and suburban areas because the demand for ride shares is frequent versus rural areas. In order to reach these rural areas:
 
-the first recommendation is to gather more information such as population density, age demographics, and even number of licensed drivers to determine if market penetration is possible and profitable for ride shares. 
+* First recommendation is to gather more information such as population density, age demographics, and even number of licensed drivers to determine if market penetration is possible and profitable for ride shares. 
 
-Another recommendation would be to offer promotions, and coupons for both riders and drivers in rural locations to make the drive and cost worth their while.
+* Another recommendation would be to offer promotions, and coupons for both riders and drivers in rural locations to make the drive and cost worth their while.
 
-A third recommendation could be to just not bother with rural locations at all due to low populations in general and to focus solely on expanding into Suburban neighborhoods. It seems more possible to add more drivers to suburban locations and to create a need for riders then to add drivers to low population areas.
+* A third recommendation could be to just not bother with rural locations at all due to low populations in general and to focus solely on expanding into Suburban neighborhoods. It seems more possible to add more drivers to suburban locations and to create a need for riders then to add drivers to low population areas.
 
 
